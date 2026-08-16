@@ -1,6 +1,6 @@
 {
-  "versionCode": 3002,
-  "versionName": "1.4.0",
-  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.4.0/repsheet-1.4.0.apk",
-  "notes": "นำเข้าไฟล์ตารางกลับเข้าแอปได้แล้ว ใช้กู้ข้อมูลตอนเปลี่ยนเครื่อง หรือวางแผนการเทรนบนคอมแล้วนำเข้าทีเดียว มีหน้าสรุปให้ตรวจก่อนเสมอ และย้อนกลับได้ถ้าผลไม่ตรงกับที่คิด"
+  "versionCode": 3003,
+  "versionName": "1.5.0",
+  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.5.0/repsheet-1.5.0.apk",
+  "notes": "ทุกช่องที่กรอกตัวเลขใช้แป้นของแอปแล้ว ไม่ต้องสลับไปแป้นระบบที่บังครึ่งจอ และแป้นมีปุ่มย้ายช่องครบสี่ทิศจัดเป็นกากบาท ส่วนบนแท็บเล็ตตัวอักษรใหญ่ขึ้น"
 }
