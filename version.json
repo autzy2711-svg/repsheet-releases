@@ -1,6 +1,6 @@
 {
-  "versionCode": 3004,
-  "versionName": "1.6.0",
-  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.6.0/repsheet-1.6.0.apk",
-  "notes": "The app is in English throughout now. In the set list the done tick has a bigger tap target and sits further from the delete button, and a set deleted by mistake comes back with Undo. Spreadsheets exported from older versions still import."
+  "versionCode": 3005,
+  "versionName": "1.7.0",
+  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.7.0/repsheet-1.7.0.apk",
+  "notes": "Deleting a set no longer leaves the undo bar sitting on top of the number pad. On the pad, Done has moved to the bottom-right corner and backspace has moved up next to the +/- keys. If you delete the set you were typing into, the pad now closes instead of quietly swallowing what you type, and it comes back when you undo."
 }
