@@ -1,6 +1,6 @@
 {
-  "versionCode": 3006,
-  "versionName": "1.8.0",
-  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.8.0/repsheet-1.8.0.apk",
-  "notes": "New: body composition tracking. Each client now has a BODY COMPOSITION section for weight, body fat %, muscle mass and seven girths in inches, along with when and how the measurement was taken. Partial entries are fine — some days all you have is a scale. Changes against the previous measurement are worked out for you, and a deleted measurement comes back with Undo. Your existing training logs are untouched."
+  "versionCode": 3007,
+  "versionName": "1.8.1",
+  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.8.1/repsheet-1.8.1.apk",
+  "notes": "Fixes a bad one in 1.8.0: once a client had a body measurement saved, their session history vanished from the client screen and the summary card could not be opened. Nothing was ever lost — it was purely a drawing mistake, and updating brings it all back. If you are coming from 1.7.0 or earlier you were never affected."
 }
