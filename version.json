@@ -1,6 +1,6 @@
 {
-  "versionCode": 3008,
-  "versionName": "1.8.2",
-  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.8.2/repsheet-1.8.2.apk",
-  "notes": "The body composition card on the client screen is about a third shorter, so session history sits back in view without scrolling. The line at the bottom of the card is gone — the change under each number already tells you it is measured against the previous entry, and the number of girths is listed on every row once you tap through."
+  "versionCode": 3009,
+  "versionName": "1.9.0",
+  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.9.0/repsheet-1.9.0.apk",
+  "notes": "Body measurements now travel with your spreadsheet exports. The file gains a second sheet holding every measurement with its units, method and note, and it imports straight back — reimporting the same file will not duplicate anything. The sheet is in every export even before you record anything, so you can type old measurements into it and import them rather than entering each one by hand. Exporting a single session still covers only that session. PDF reports are unchanged."
 }
