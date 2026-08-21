@@ -1,6 +1,6 @@
 {
-  "versionCode": 3007,
-  "versionName": "1.8.1",
-  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.8.1/repsheet-1.8.1.apk",
-  "notes": "Fixes a bad one in 1.8.0: once a client had a body measurement saved, their session history vanished from the client screen and the summary card could not be opened. Nothing was ever lost — it was purely a drawing mistake, and updating brings it all back. If you are coming from 1.7.0 or earlier you were never affected."
+  "versionCode": 3008,
+  "versionName": "1.8.2",
+  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.8.2/repsheet-1.8.2.apk",
+  "notes": "The body composition card on the client screen is about a third shorter, so session history sits back in view without scrolling. The line at the bottom of the card is gone — the change under each number already tells you it is measured against the previous entry, and the number of girths is listed on every row once you tap through."
 }
