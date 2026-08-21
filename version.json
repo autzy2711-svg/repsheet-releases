@@ -1,6 +1,6 @@
 {
-  "versionCode": 3005,
-  "versionName": "1.7.0",
-  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.7.0/repsheet-1.7.0.apk",
-  "notes": "Deleting a set no longer leaves the undo bar sitting on top of the number pad. On the pad, Done has moved to the bottom-right corner and backspace has moved up next to the +/- keys. If you delete the set you were typing into, the pad now closes instead of quietly swallowing what you type, and it comes back when you undo."
+  "versionCode": 3006,
+  "versionName": "1.8.0",
+  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.8.0/repsheet-1.8.0.apk",
+  "notes": "New: body composition tracking. Each client now has a BODY COMPOSITION section for weight, body fat %, muscle mass and seven girths in inches, along with when and how the measurement was taken. Partial entries are fine — some days all you have is a scale. Changes against the previous measurement are worked out for you, and a deleted measurement comes back with Undo. Your existing training logs are untouched."
 }
