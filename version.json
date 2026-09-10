@@ -1,6 +1,6 @@
 {
-  "versionCode": 3010,
-  "versionName": "1.9.1",
-  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.9.1/repsheet-1.9.1.apk",
-  "notes": "Hold any exercise row and drag it up or down to reorder your session. Renaming an exercise has moved to the pencil button that appears when you tap a row open. Duplicating a session now copies the whole sheet — sets, reps, row notes and check marks — instead of starting the results from scratch."
+  "versionCode": 3039,
+  "versionName": "1.24.0",
+  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.24.0/repsheet-1.24.0.apk",
+  "notes": "Exercises now live in a shared library. Each one can carry a category, a photo, a difficulty level and muscle tags, and the same exercise is reused across every client. The whole library exports to a .skillfitlib file that another device can import — the same file SkillFit reads and writes.\n\nAn exercise can be measured in seconds instead of reps. The second column of the set table switches between the two, and that choice now travels inside the library file, so timed exercises stay timed after a transfer instead of quietly turning back into reps.\n\nTablets get a two-column layout and a Clients / Library tab bar.\n\nImporting a spreadsheet now reports what it actually did. Line numbers in the report match the lines you see when you open the file, even when the file has blank rows in it. Two rows sharing one Order number are skipped as the report says, instead of folding the second exercise's sets into the first. Client names that differ only by extra spaces are treated as one person rather than two, and body measurements logged in the same minute no longer produce a duplicate entry."
 }
