@@ -1,6 +1,6 @@
 {
-  "versionCode": 3041,
-  "versionName": "1.25.0",
-  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.25.0/repsheet-1.25.0.apk",
-  "notes": "Logging a session is much smoother. Typing on the number pad no longer reloads every exercise's history, so the screen keeps up even for clients with years of sessions.\nSession lists, exercise history and deleting a session are faster. Your existing data is upgraded automatically the first time you open this version.\nImporting a spreadsheet or an exercise library no longer freezes the app while the file is read.\nMessages and Undo now appear in one place, at the top right, on every screen.\nDeleting an exercise from a session no longer asks for confirmation. Tap Undo within 5 seconds if it was a mistake.\nFixed exporting sometimes getting stuck on the loading spinner.\nSmaller download."
+  "versionCode": 3042,
+  "versionName": "1.26.0",
+  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.26.0/repsheet-1.26.0.apk",
+  "notes": "หน้า client list, session list, exercise table และ exercise editor ปรับตาม\nดีไซน์ระบบใหม่ทั้งชุด ส่วนกล่องเลือกสีหมวดเพิ่ม HitTestBehavior.opaque ให้\nพื้นที่กดครอบทั้งกรอบสี่เหลี่ยมของจุด ไม่ใช่แค่ในวงกลมเท่านั้นแบบเดิม\n\nCo-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>"
 }
