@@ -1,6 +1,6 @@
 {
-  "versionCode": 3044,
-  "versionName": "1.28.0",
-  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.28.0/repsheet-1.28.0.apk",
-  "notes": "Duplicate as a new session now copies everything: exercise pictures, set times, set notes and the session note. Check marks start empty so the new session is ready to log.\nThe exercise library now uses its own .repsheetlib file for export and import.\nCategories can be renamed and recoloured, and Upper Traps joins the core muscles.\nExercise pictures no longer disappear from the library after filtering.\nA fresh install now starts truly empty.\nThe duplicate Muscles item was removed from the library menu; edit muscles from the pencil button in the Muscles filter."
+  "versionCode": 3050,
+  "versionName": "1.29.1",
+  "url": "https://github.com/autzy2711-svg/repsheet-releases/releases/download/v1.29.1/repsheet-1.29.1.apk",
+  "notes": "v1.29.1 — แก้กรอบไฮไลต์มุมแหว่งในหน้าวัดสัดส่วน"
 }
